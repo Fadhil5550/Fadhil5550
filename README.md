@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Raihan Gunawan</h1>
-<h3 align="center">A cool handsome and quick thinking student in Universiti Teknologi Malaysia</h3>
+<h3 align="center">A young and quick thinking student in Universiti Teknologi Malaysia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,5 +12,3 @@
 
 <h3 align="center">Education: Computing</h3>
 <h3 align="center">Position: Software Engineering Student 22</h3>
-<a href="#" class="image main"><img src="IELTS.png" alt="" /></a>
-
