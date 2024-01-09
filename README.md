@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tdp_bleuxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdp_bleuxy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@bleuxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bleuxy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,3 +11,11 @@
 
 <h3 align="center">Education: Computing</h3>
 <h3 align="center">Position: Software Engineering Student 22</h3>
+
+<h1 align="center">Certificates:</h1>
+
+
+![OBS certificate](https://github.com/Fadhil5550/Fadhil5550/assets/148435257/911af886-8854-4800-b86f-5be20e0b168a)
+
+
+<h3 align="center">Online Business School UK certificate of completion in Make Yourself Memorable</h3>
