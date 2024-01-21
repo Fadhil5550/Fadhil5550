@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Raihan Gunawan</h1>
-<h3 align="center">A young and quick thinking student in Universiti Teknologi Malaysia</h3>
+<h3 align="center">Hey there! I'm a 19-year-old student who's been bouncing between countries like Saudi Arabia, the UAE, Indonesia, and now soaking up knowledge at Universiti Teknologi Malaysia. I'm all about making connections worldwide and diving into the tech and coding scene. In a world that only recognizes "better" and not "enough," I'm on a non-stop journey of learning and growth.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
