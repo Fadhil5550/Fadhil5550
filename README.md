@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tdp_bleuxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdp_bleuxy" height="30" width="40" /></a>
-</p>
 
 <<h2>ABOUT ME:</h2>
 <h3>𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 : Computing in Universiti Teknologi Malaysia (UTM)</h3>
